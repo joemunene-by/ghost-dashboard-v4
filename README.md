@@ -1,16 +1,16 @@
-# 👻 Ghost Dashboard v4.0
+# Ghost Dashboard v4.0
 
-A premium developer dashboard with terminal aesthetics, AI-powered insights, and real-time monitoring.
+A developer dashboard with terminal aesthetics, AI-assisted insights, and real-time monitoring.
 
 ## Features
-- 📊 GitHub repo analytics (public + private)
-- 🟩 Contribution heatmap
-- 👻 Ghost AI chat (Groq powered)
-- ✍️ AI commit message generator
-- 🔍 AI code reviewer
-- 🐳 Docker container monitoring
-- 💻 System metrics
-- 🔒 Repo ignore list
+- GitHub repo analytics (public + private)
+- Contribution heatmap
+- Ghost AI chat (Groq-powered)
+- AI commit message generator
+- AI code reviewer
+- Docker container monitoring
+- System metrics
+- Repo ignore list
 
 ## Stack
 - **Frontend:** Next.js 16 + Tailwind
